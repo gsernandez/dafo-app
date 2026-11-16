@@ -9,3 +9,5 @@ Aplicación en un único archivo `index.html`. Funciona sin instalación ni serv
 - Exporta el informe a Word y PDF.
 
 Aviso: las puntuaciones dependen de juicios humanos y no son verdades objetivas. Antes de usarla con datos de empresas reales, revisa la protección de datos (RGPD) y no introduzcas datos personales de empleados.
+
+Abrir: https://gsernandez.github.io/dafo-app/
